@@ -1,0 +1,91 @@
+body{
+  width: 375px;
+  height: 800px;
+  background-color: #666d73;
+}
+
+.container{
+  width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.site-hero-image{
+  margin-top: 80px;
+}
+
+.site-explore{
+  margin-top: 25px;
+}
+
+.site-explore h2{
+  width: 198px;
+  height: 72px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  color: #F2F2F2;
+}
+
+.site-explore p{
+width: 212px;
+height: 42px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #949FA6;
+}
+
+footer{
+  margin-top: 150px;
+}
+
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.skip-image{
+  margin-right: 100px;
+}
+
+
+/* SECOND-PAGE */
+
+.site-improver{
+  margin-top: 25px;
+}
+
+.site-improver h2{
+  width: 281px;
+height: 72px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: #F2F2F2;
+}
+
+.site-improver p{
+  width: 247px;
+  height: 42px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #949FA6;
+  
+}
+ 
+
+/* LOG-IN PAGE */
+
